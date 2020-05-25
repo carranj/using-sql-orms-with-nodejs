@@ -1,0 +1,16 @@
+{
+  "name": "using-sql-orms-with-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^5.21.10",
+    "sqlite3": "^4.2.0"
+  }
+}
